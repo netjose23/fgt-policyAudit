@@ -26,6 +26,8 @@ OUTPUT OF policyAduit.py
 - the output stores in a CSV and the config is stored in one row. 
 - I am working on adjusting the output so it's clean without modification. However,
 - until then, you will need to modify the csv file
+
+
 CSV EDITS
 --------------------
 1. insert column "A"
