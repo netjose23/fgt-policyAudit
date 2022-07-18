@@ -50,7 +50,7 @@ while counting > 0:
 
 
 
-# interate over Policy List and write into CSV
+# iterate over Policy List and write into CSV
 
     for e in policyList:
         # we can't concantenate over a Int to string
